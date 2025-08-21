@@ -2,3 +2,4 @@ this is a samlple file
 Got it 👍 That error means your local repo doesn’t yet have a branch named main (or you haven’t committed anything yet). Let’s fix it step by step.
 
 ✅ Steps to push your local project to GitH
+fr
